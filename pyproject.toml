@@ -1,0 +1,6 @@
+[project]
+name = 'crux'
+version = '0.3.0'
+description = 'CRUX loop: seeds → propose → critique → revise → tournament'
+requires-python = '>=3.12'
+dependencies = []

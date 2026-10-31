@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "crux-local": {
+      "source": {
+        "source": "directory",
+        "path": "."
+      }
+    }
+  },
+  "enabledPlugins": {
+    "crux@crux-local": true
+  }
+}

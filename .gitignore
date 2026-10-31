@@ -1,0 +1,23 @@
+.crux/
+.crux_run/
+.claude/agents/crux-pack-*.md
+.popper/
+.popper-run/
+.hypothesis-run/
+__pycache__/
+.pytest_cache/
+.test-tmp/
+pytest-cache-files-*/
+.deps/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# Suite skills cloned in by the quickstart (each is its own repo)
+.claude/skills/claim-extractor/
+.claude/skills/crux-isc/
+.claude/skills/crux-report/
+.claude/skills/crux-lean/
+.claude/skills/crux-eval/

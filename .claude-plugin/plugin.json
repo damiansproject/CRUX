@@ -1,0 +1,11 @@
+{
+  "name": "crux",
+  "version": "0.3.0",
+  "description": "CRUX loop: seeds, propose, critique, revise, tournament.",
+  "skills": "./.claude/skills/",
+  "workflows": [
+    "./.claude/skills/crux/workflows/",
+    "./.claude/skills/claim-extractor/workflows/"
+  ],
+  "agents": ["./.claude/agents/crux-worker.md"]
+}

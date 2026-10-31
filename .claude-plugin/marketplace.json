@@ -1,0 +1,13 @@
+{
+  "name": "crux-local",
+  "owner": {
+    "name": "local"
+  },
+  "plugins": [
+    {
+      "name": "crux",
+      "source": "./",
+      "description": "CRUX loop: seeds, propose, critique, revise, tournament"
+    }
+  ]
+}
