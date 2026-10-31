@@ -72,3 +72,9 @@ evidence gaps and revises it again.
 | **CRUX** (this repo) | Hypothesis loop: propose → critique → revise → tournament |
 | [CRUX Reports](https://github.com/damiansproject/CRUX-REPORTS) | PDF reports of a run |
 | [CRUX Viewer](https://github.com/damiansproject/CRUX-VIEWER) | Claim quotes highlighted on the original sources |
+
+## Acknowledgements
+
+- Gottweis, J. and Natarajan, V. Accelerating scientific breakthroughs with an AI co-scientist (Google co-scientist). Google Research blog, 2025.
+- Gottweis, J., Weng, W.-H., Daryin, A., et al. Towards an AI co-scientist. arXiv:2502.18864, 2025.
+- Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., and Ha, D. The AI Scientist: Towards fully automated open-ended scientific discovery. arXiv:2408.06292, 2024.
